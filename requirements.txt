@@ -1,0 +1,8 @@
+ipykernel
+ipython
+pandas
+numpy
+librosa
+pathlib
+matplotlib
+tensorflow
